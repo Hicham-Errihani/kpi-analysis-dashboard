@@ -11,7 +11,7 @@ This dashboard was developed as part of my industrial data analysis experience, 
 This project reflects my experience in industrial data analysis across major organizations:
 - **General Dynamics Land Systems** : Technical and production data analysis (11 years)
 - **Leonardo DRS** : Industrial performance indicators and operational reporting (7.5 years)
-
+- **AUF** : Institutional project management dashboards with Power BI (Current)
 
 ### 🛠️ Technologies Used
 - **Power BI** : Data modeling and visualization
@@ -83,17 +83,49 @@ KPI-Analysis/
 
 ---
 
-**👤 Author : Hicham Errihani**  
-**📅 Date : February 2020**  
-**💼 Professional Experience : Data Analyst - Industrial & Institutional**  
-**📧 Contact : hicham.errihani@email.com**
 
-### 📝 License
-This project is for demonstration purposes. All rights reserved by Hicham Errihani.
+### 🚀 Future Enhancements
+- Integration with Azure SQL Database
+- Real-time data streaming
+- Advanced predictive analytics
+- Automated report distribution
+- Custom visual development
 
-### 🤝 Contributing
-This is a professional portfolio project. For suggestions or questions, please contact the author directly.
+### 📋 Prerequisites
+- Power BI Desktop (latest version recommended)
+- Microsoft Excel (for data source modifications)
+- Windows OS (Power BI Desktop requirement)
+
+### 👥 Target Users
+- Production Managers
+- Operations Directors
+- Quality Assurance Teams
+- Maintenance Engineers
+- Executive Leadership
 
 ---
 
-*Built with ❤️ using Microsoft Power BI*
+## 👤 Author
+
+**Hicham Errihani**  
+*Data Analyst & BI Expert*
+
+- 📧 **Email** : errihanihicham1@gmail.com
+- 🔗 **LinkedIn** : [linkedin.com/in/hicham-errihani-815755266](https://www.linkedin.com/in/hicham-errihani-815755266)
+- 🐦 **Twitter/X** : [x.com/ErrihaniHi79506](https://x.com/ErrihaniHi79506)
+- 📸 **Instagram** : [instagram.com/hichamerr](https://instagram.com/hichamerr)
+
+### 📝 Certifications
+- Microsoft Azure Certified
+- AWS Certified
+- Databricks Certified
+- Oracle Certified
+- IBM Certified
+- Google Certified
+
+### 🎓 Education
+- Master in Computer Engineering & Big Data
+
+---
+
+📅 **February 2020** | 💼 **Industrial Data Analysis Portfolio**
